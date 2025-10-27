@@ -12,7 +12,6 @@ const app=express();
 
 //calling the port from the env file
 const PORT= process.env.PORT;
-console.log("Port is : ",process.env.PORT)
 // enable json payload parsing  middleware 
 app.use(express.json());
 
