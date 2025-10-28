@@ -1,9 +1,7 @@
 
 //BRINGING THE EXPRESS LIBRARY
 import express from "express"
-//dotevn config
-import dotenv from "dotenv";
-dotenv.config();
+
 
 //creating instance of express application object 
 // The app object exposes methods for defining routes, middleware, and server behavior.
