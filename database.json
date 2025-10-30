@@ -1,0 +1,10 @@
+ {
+  "dev": {
+    "driver": "pg",
+    "host": "localhost",
+    "database": "music_app",
+    "user": "devvicky",
+    "password": "vignesh2504",
+    "port": 5432
+  }
+}
